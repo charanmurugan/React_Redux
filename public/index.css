@@ -1,0 +1,36 @@
+.contact-list{
+    background-color:grey;
+    border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 250px;
+  height: 150px;
+  margin: 60px;
+  float: left;
+  position: relative;
+  top: 200px;
+}
+.title{
+    position: absolute;
+    left: 400px;
+}
+.total-title{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+.contact-name{
+    position: relative;
+    left: 50px;
+    top: -25px;
+}
+.contact-button1{
+    position: relative;
+    bottom: -30px;
+    left: 10px;
+}
+.contact-button2{
+    position: relative;
+    bottom: -30px;
+    left: 50px;
+}
